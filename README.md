@@ -22,7 +22,7 @@ I learn the fondamentals of web programming and programming in general, in this 
 
 
 and with this programming language i learn team work and communcation.<br>
-![Linkedin](https://www.linkedin.com/in/nathan-dupuis-80600435b/?skipRedirect=true)
+![Linkedin]([https://www.linkedin.com/in/nathan-dupuis-80600435b/?skipRedirect=true](https://www.linkedin.com/in/nathan-dupuis-80600435b/?skipRedirect=true))
 But despite the school i train myself on :
 
 - C# <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/837eba19-52ae-46f1-8961-33801f6f7920" />
