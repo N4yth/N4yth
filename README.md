@@ -9,7 +9,7 @@
 
 ## About Me 😁​
 
-[Linkedin](https://www.linkedin.com/in/nathan-dupuis-80600435b/?skipRedirect=true)
+[Linkedin](https://www.linkedin.com/in/nathan-dupuis-80600435b/?skipRedirect=true)​<br>
 I am in formation at holberton school ​🎓​📚​<br>
 I learn the fondamentals of web programming and programming in general, in this school i learn :
 
